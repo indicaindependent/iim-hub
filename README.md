@@ -98,6 +98,6 @@ is not, and the trading internals are deliberately absent.
 
 **The mission work is at [VPDLNY tools](https://github.com/indicaindependent/vpdlny-tools).**
 
-`100% Creative Clarity` · [Discord](https://discord.osintnet.uk) · [Support the mission](https://donate.skygive.app)
+`100% Creative Clarity` · [Support the mission](https://donate.skygive.app)
 
 </div>
