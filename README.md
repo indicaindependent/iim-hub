@@ -19,7 +19,6 @@ cannot buy a terminal. This is the index. Every repo below is public on its own.
 |---|---|---|
 | **WarHeatMap** | [warheatmap.app](https://warheatmap.app) · [src](https://github.com/indicaindependent/warheatmap) | Live global conflict intelligence, 4,000+ verified events |
 | **Tuck** | [tuck.osintnet.uk](https://tuck.osintnet.uk) · [src](https://github.com/indicaindependent/tuck) | Congressional trades and disclosure data, handed back |
-| **removed-project** | [removed-project.com](https://removed-project.com) · [src](https://github.com/indicaindependent/removed-project) | Free public-domain cinema with a film diary you own |
 
 ---
 
