@@ -90,6 +90,6 @@ is not, and the trading internals are deliberately absent.
 
 **The mission work is at [VPDLNY tools](https://github.com/indicaindependent/vpdlny-tools).**
 
-`100% Creative Clarity` · [Support the mission](https://donate.skygive.app)
+`100% Creative Clarity` · [Donate to Ukraine's defense (UNITED24)](https://u24.gov.ua/donate/defense)
 
 </div>
