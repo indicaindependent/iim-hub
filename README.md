@@ -30,7 +30,7 @@ The orchestral agentic AI foundation. Four agent seats and one human, bound to a
 |---|---|---|
 | The fellowship | [**ka-tet**](https://github.com/indicaindependent/ka-tet) | The architecture itself, and how the seats bind |
 | The Gunslinger | [**gunslinger-multi-agent-orchestrator**](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator) | Multi-Agent Orchestrator: the one with the big irons |
-| The Second Gunslinger | [**the-second-gunslinger**](https://github.com/indicaindependent/the-second-gunslinger) | A 24-chamber cylinder for dealing with humans |
+| The Second Gunslinger | [**second-gunslinger-multi-agent-orchestrator**](https://github.com/indicaindependent/second-gunslinger-multi-agent-orchestrator) | Human-facing Multi-Agent Orchestrator: a 24-chamber cylinder for dealing with humans |
 | The Archivist | [**the-archivist**](https://github.com/indicaindependent/the-archivist) | The companion seat. One hand writes, the other checks |
 | Genesis | [**the-gun-skillset-router**](https://github.com/indicaindependent/the-gun-skillset-router) | The original 24-chamber routing architecture |
 
